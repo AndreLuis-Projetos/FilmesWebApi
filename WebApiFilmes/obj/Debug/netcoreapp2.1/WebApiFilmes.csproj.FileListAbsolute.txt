@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.1\WebApiFilmes.deps.json
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.1\WebApiFilmes.runtimeconfig.json
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.1\WebApiFilmes.runtimeconfig.dev.json
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.1\WebApiFilmes.dll
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\bin\Debug\netcoreapp2.1\WebApiFilmes.pdb
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.RazorAssemblyInfo.cache
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.RazorAssemblyInfo.cs
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.AssemblyInfo.cs
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.RazorTargetAssemblyInfo.cache
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.dll
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.pdb
+C:\Users\andre\source\repos\WebApiFilmes\WebApiFilmes\obj\Debug\netcoreapp2.1\WebApiFilmes.csprojAssemblyReference.cache

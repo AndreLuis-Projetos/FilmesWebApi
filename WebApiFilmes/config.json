@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "WebApiFilmesDB": "Server=(LocalDb)\\MSSQLLocalDB;Database=FilmeDB;Trusted_Connection=True;MultipleActiveResultSets=true"
+
+  }
+
+}
